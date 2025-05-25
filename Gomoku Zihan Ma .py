@@ -3,8 +3,8 @@ A Python module for the Gomoku game.
 This module can enable two people, a person against a computer, or computer against computer to play Gomoku, and can load files.
 
 Full name: Zihan Ma
-StudentId: 10935961
-Email: zihan.ma-2@student.manchester.ac.uk
+StudentId: 550171414
+Email: zima0826@uni.sydney.edu.au
 """
 
 
