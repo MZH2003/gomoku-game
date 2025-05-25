@@ -20,3 +20,16 @@ This is a Python-based terminal version of the classic Gomoku game (also known a
 
 ```bash
 python "Gomoku Zihan Ma.py"
+
+📁 File Structure
+Gomoku Zihan Ma.py – main program file containing all game logic and AI strategy.
+
+🚫 Dependencies
+No third-party libraries required
+Uses only Python standard library: copy
+
+👤 Author
+Name: Zihan Ma
+Student ID: 550171414
+Email: zima0826@uni.sydney.edu.au
+Developed for the COMP9001 Python Project Challenge
